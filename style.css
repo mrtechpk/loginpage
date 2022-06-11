@@ -4,7 +4,7 @@
 }
 
 .main{
-    width: 100%;
+    width: auto;
 
     background-image: url(back.webp) ;
     /* background: linear-gradient( rgba(224, 35, 35, 0.5)20%,rgba(22, 216, 71, 0.5)50%), url(1.jpg); */
